@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3429-special-array-i](https://github.com/ilhammramadhan/leetcode/tree/master/3429-special-array-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ilhammramadhan/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 <!---LeetCode Topics End-->
