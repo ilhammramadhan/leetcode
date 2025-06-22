@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ilhammramadhan/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ilhammramadhan/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ilhammramadhan/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ilhammramadhan/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ilhammramadhan/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ilhammramadhan/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
