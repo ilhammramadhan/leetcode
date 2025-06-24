@@ -17,7 +17,6 @@ var findKDistantIndices = function(nums, key, k) {
 
     for (let i = 0 ; i < n ; i++){
         for (let j of pos){
-            console.log("ini j pos",j)
             if (Math.abs(i - j) <= k){
                 result.push(i);
                 break; 
