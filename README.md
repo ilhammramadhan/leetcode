@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ilhammramadhan/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ilhammramadhan/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ilhammramadhan/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ilhammramadhan/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ilhammramadhan/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ilhammramadhan/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ilhammramadhan/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ilhammramadhan/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ilhammramadhan/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ilhammramadhan/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ilhammramadhan/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ilhammramadhan/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ilhammramadhan/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ilhammramadhan/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
