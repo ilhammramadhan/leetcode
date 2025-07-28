@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/ilhammramadhan/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ilhammramadhan/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ilhammramadhan/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ilhammramadhan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ilhammramadhan/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ilhammramadhan/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ilhammramadhan/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ilhammramadhan/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ilhammramadhan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ilhammramadhan/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ilhammramadhan/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ilhammramadhan/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ilhammramadhan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ilhammramadhan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ilhammramadhan/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ilhammramadhan/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
