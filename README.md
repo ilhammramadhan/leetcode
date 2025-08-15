@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ilhammramadhan/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/ilhammramadhan/leetcode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/ilhammramadhan/leetcode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ilhammramadhan/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ilhammramadhan/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ilhammramadhan/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/ilhammramadhan/leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ilhammramadhan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ilhammramadhan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ilhammramadhan/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ilhammramadhan/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/ilhammramadhan/leetcode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ilhammramadhan/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
