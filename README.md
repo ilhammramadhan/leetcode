@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ilhammramadhan/leetcode/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/0118-pascals-triangle) |
 | [0498-diagonal-traverse](https://github.com/ilhammramadhan/leetcode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/ilhammramadhan/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ilhammramadhan/leetcode/tree/master/0036-valid-sudoku) |
 | [0594-longest-harmonious-subsequence](https://github.com/ilhammramadhan/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ilhammramadhan/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/ilhammramadhan/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ilhammramadhan/leetcode/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/ilhammramadhan/leetcode/tree/master/0498-diagonal-traverse) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ilhammramadhan/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
