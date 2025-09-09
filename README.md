@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/ilhammramadhan/leetcode/tree/master/0498-diagonal-traverse) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ilhammramadhan/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ilhammramadhan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/ilhammramadhan/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ilhammramadhan/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/ilhammramadhan/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ilhammramadhan/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ilhammramadhan/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ilhammramadhan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ilhammramadhan/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ilhammramadhan/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ilhammramadhan/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ilhammramadhan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
