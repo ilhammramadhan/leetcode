@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ilhammramadhan/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/ilhammramadhan/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ilhammramadhan/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3678-design-task-manager](https://github.com/ilhammramadhan/leetcode/tree/master/3678-design-task-manager) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ilhammramadhan/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ilhammramadhan/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ilhammramadhan/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ilhammramadhan/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/ilhammramadhan/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3678-design-task-manager](https://github.com/ilhammramadhan/leetcode/tree/master/3678-design-task-manager) |
 ## Sliding Window
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ilhammramadhan/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3678-design-task-manager](https://github.com/ilhammramadhan/leetcode/tree/master/3678-design-task-manager) |
 ## Linked List
 |  |
 | ------- |
@@ -335,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ilhammramadhan/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/ilhammramadhan/leetcode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
