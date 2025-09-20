@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ilhammramadhan/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ilhammramadhan/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3797-design-spreadsheet](https://github.com/ilhammramadhan/leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ilhammramadhan/leetcode/tree/master/3827-implement-router) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ilhammramadhan/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ilhammramadhan/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ilhammramadhan/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3827-implement-router](https://github.com/ilhammramadhan/leetcode/tree/master/3827-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ilhammramadhan/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ilhammramadhan/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/ilhammramadhan/leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ilhammramadhan/leetcode/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ilhammramadhan/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3678-design-task-manager](https://github.com/ilhammramadhan/leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/ilhammramadhan/leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ilhammramadhan/leetcode/tree/master/3827-implement-router) |
 ## Linked List
 |  |
 | ------- |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ilhammramadhan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/ilhammramadhan/leetcode/tree/master/3827-implement-router) |
 ## Number Theory
 |  |
 | ------- |
@@ -347,4 +352,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/ilhammramadhan/leetcode/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/ilhammramadhan/leetcode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
