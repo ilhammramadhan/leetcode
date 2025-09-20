@@ -1,7 +1,3 @@
-from collections import deque
-from bisect import bisect_left, bisect_right
-from typing import List
-
 class Router:
     """
     A class to represent a network router that manages data packets with a fixed memory limit.
