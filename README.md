@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ilhammramadhan/leetcode/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/0120-triangle) |
 | [0498-diagonal-traverse](https://github.com/ilhammramadhan/leetcode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/ilhammramadhan/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/ilhammramadhan/leetcode/tree/master/0679-24-game) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/0120-triangle) |
 | [0826-soup-servings](https://github.com/ilhammramadhan/leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ilhammramadhan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ilhammramadhan/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
