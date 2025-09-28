@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ilhammramadhan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/ilhammramadhan/leetcode/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ilhammramadhan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-largest-perimeter-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ilhammramadhan/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ilhammramadhan/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ilhammramadhan/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/ilhammramadhan/leetcode/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ilhammramadhan/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ilhammramadhan/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ilhammramadhan/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ilhammramadhan/leetcode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/ilhammramadhan/leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/ilhammramadhan/leetcode/tree/master/0826-soup-servings) |
+| [1018-largest-perimeter-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ilhammramadhan/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ilhammramadhan/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ilhammramadhan/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ilhammramadhan/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/ilhammramadhan/leetcode/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ilhammramadhan/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ilhammramadhan/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ilhammramadhan/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
