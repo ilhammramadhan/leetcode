@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ilhammramadhan/leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/ilhammramadhan/leetcode/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/0120-triangle) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ilhammramadhan/leetcode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/ilhammramadhan/leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ilhammramadhan/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ilhammramadhan/leetcode/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/ilhammramadhan/leetcode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/ilhammramadhan/leetcode/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ilhammramadhan/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
