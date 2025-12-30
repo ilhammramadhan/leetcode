@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ilhammramadhan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/ilhammramadhan/leetcode/tree/master/0679-24-game) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ilhammramadhan/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0840-magic-squares-in-grid](https://github.com/ilhammramadhan/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ilhammramadhan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ilhammramadhan/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ilhammramadhan/leetcode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/ilhammramadhan/leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/ilhammramadhan/leetcode/tree/master/0826-soup-servings) |
+| [0840-magic-squares-in-grid](https://github.com/ilhammramadhan/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ilhammramadhan/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ilhammramadhan/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/ilhammramadhan/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/ilhammramadhan/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/ilhammramadhan/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/ilhammramadhan/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ilhammramadhan/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ilhammramadhan/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ilhammramadhan/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ilhammramadhan/leetcode/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/ilhammramadhan/leetcode/tree/master/0498-diagonal-traverse) |
+| [0840-magic-squares-in-grid](https://github.com/ilhammramadhan/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ilhammramadhan/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ilhammramadhan/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2625-increment-submatrices-by-one](https://github.com/ilhammramadhan/leetcode/tree/master/2625-increment-submatrices-by-one) |
