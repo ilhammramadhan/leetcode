@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/ilhammramadhan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ilhammramadhan/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/ilhammramadhan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ilhammramadhan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ilhammramadhan/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/ilhammramadhan/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ilhammramadhan/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ilhammramadhan/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ilhammramadhan/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ilhammramadhan/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ilhammramadhan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ilhammramadhan/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ilhammramadhan/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ilhammramadhan/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ilhammramadhan/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ilhammramadhan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ilhammramadhan/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ilhammramadhan/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ilhammramadhan/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/ilhammramadhan/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ilhammramadhan/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ilhammramadhan/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ilhammramadhan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2625-increment-submatrices-by-one](https://github.com/ilhammramadhan/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ilhammramadhan/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -515,10 +519,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ilhammramadhan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ilhammramadhan/leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ilhammramadhan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ilhammramadhan/leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |
