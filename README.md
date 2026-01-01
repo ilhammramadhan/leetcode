@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ilhammramadhan/leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/ilhammramadhan/leetcode/tree/master/0036-valid-sudoku) |
+| [0066-plus-one](https://github.com/ilhammramadhan/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/0120-triangle) |
 | [0498-diagonal-traverse](https://github.com/ilhammramadhan/leetcode/tree/master/0498-diagonal-traverse) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ilhammramadhan/leetcode/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ilhammramadhan/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/ilhammramadhan/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ilhammramadhan/leetcode/tree/master/0342-power-of-four) |
