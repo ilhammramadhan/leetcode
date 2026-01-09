@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ilhammramadhan/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/ilhammramadhan/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/ilhammramadhan/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ilhammramadhan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ilhammramadhan/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ilhammramadhan/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ilhammramadhan/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ilhammramadhan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ilhammramadhan/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ilhammramadhan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ilhammramadhan/leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ilhammramadhan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ilhammramadhan/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ilhammramadhan/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Segment Tree
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ilhammramadhan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ilhammramadhan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ilhammramadhan/leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
@@ -537,4 +541,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/ilhammramadhan/leetcode/tree/master/2092-find-all-people-with-secret) |
+## Binary Tree
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ilhammramadhan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
