@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ilhammramadhan/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ilhammramadhan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ilhammramadhan/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ilhammramadhan/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ilhammramadhan/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ilhammramadhan/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ilhammramadhan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ilhammramadhan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ilhammramadhan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ilhammramadhan/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ilhammramadhan/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ilhammramadhan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/ilhammramadhan/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3336-water-bottles-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ilhammramadhan/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ilhammramadhan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ilhammramadhan/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ilhammramadhan/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/ilhammramadhan/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ilhammramadhan/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/ilhammramadhan/leetcode/tree/master/3678-design-task-manager) |
 ## Sliding Window
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ilhammramadhan/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ilhammramadhan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -544,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/ilhammramadhan/leetcode/tree/master/2023-design-movie-rental-system) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/ilhammramadhan/leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/ilhammramadhan/leetcode/tree/master/3827-implement-router) |
 ## Monotonic Queue
@@ -573,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3454-separate-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
