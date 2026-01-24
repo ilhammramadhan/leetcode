@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/ilhammramadhan/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ilhammramadhan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ilhammramadhan/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ilhammramadhan/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/ilhammramadhan/leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/ilhammramadhan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ilhammramadhan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ilhammramadhan/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ilhammramadhan/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ilhammramadhan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ilhammramadhan/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/ilhammramadhan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/ilhammramadhan/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ilhammramadhan/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ilhammramadhan/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ilhammramadhan/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ilhammramadhan/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ilhammramadhan/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2092-find-all-people-with-secret](https://github.com/ilhammramadhan/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ilhammramadhan/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ilhammramadhan/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/ilhammramadhan/leetcode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/ilhammramadhan/leetcode/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ilhammramadhan/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ilhammramadhan/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ilhammramadhan/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ilhammramadhan/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ilhammramadhan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
