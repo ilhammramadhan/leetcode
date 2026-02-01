@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/ilhammramadhan/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ilhammramadhan/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ilhammramadhan/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ilhammramadhan/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ilhammramadhan/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ilhammramadhan/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ilhammramadhan/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ilhammramadhan/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/ilhammramadhan/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ilhammramadhan/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ilhammramadhan/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ilhammramadhan/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ilhammramadhan/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ilhammramadhan/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ilhammramadhan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ilhammramadhan/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ilhammramadhan/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ilhammramadhan/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ilhammramadhan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
