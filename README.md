@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ilhammramadhan/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ilhammramadhan/leetcode/tree/master/0120-triangle) |
+| [0799-champagne-tower](https://github.com/ilhammramadhan/leetcode/tree/master/0799-champagne-tower) |
 | [0826-soup-servings](https://github.com/ilhammramadhan/leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ilhammramadhan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ilhammramadhan/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
