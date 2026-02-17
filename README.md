@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/ilhammramadhan/leetcode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/ilhammramadhan/leetcode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/ilhammramadhan/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ilhammramadhan/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ilhammramadhan/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ilhammramadhan/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ilhammramadhan/leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/ilhammramadhan/leetcode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/ilhammramadhan/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ilhammramadhan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ilhammramadhan/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
