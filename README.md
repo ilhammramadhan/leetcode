@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/ilhammramadhan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ilhammramadhan/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ilhammramadhan/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ilhammramadhan/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ilhammramadhan/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ilhammramadhan/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ilhammramadhan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ilhammramadhan/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ilhammramadhan/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ilhammramadhan/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ilhammramadhan/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ilhammramadhan/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ilhammramadhan/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ilhammramadhan/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
