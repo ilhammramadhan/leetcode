@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ilhammramadhan/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ilhammramadhan/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ilhammramadhan/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ilhammramadhan/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ilhammramadhan/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ilhammramadhan/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ilhammramadhan/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/ilhammramadhan/leetcode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/ilhammramadhan/leetcode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/ilhammramadhan/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ilhammramadhan/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ilhammramadhan/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ilhammramadhan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Heap (Priority Queue)
