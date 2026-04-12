@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ilhammramadhan/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ilhammramadhan/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ilhammramadhan/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ilhammramadhan/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ilhammramadhan/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ilhammramadhan/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ilhammramadhan/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/ilhammramadhan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ilhammramadhan/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ilhammramadhan/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ilhammramadhan/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ilhammramadhan/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ilhammramadhan/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ilhammramadhan/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
