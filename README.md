@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/ilhammramadhan/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ilhammramadhan/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/ilhammramadhan/leetcode/tree/master/2023-design-movie-rental-system) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ilhammramadhan/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ilhammramadhan/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ilhammramadhan/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ilhammramadhan/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ilhammramadhan/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/ilhammramadhan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/ilhammramadhan/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ilhammramadhan/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ilhammramadhan/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ilhammramadhan/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ilhammramadhan/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
